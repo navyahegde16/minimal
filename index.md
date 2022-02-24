@@ -1,123 +1,66 @@
+# Career Portfolio
+
+## Experience
+### Software Engineer, Capgemini
+
+* Trained on how to set up a DevOps project by integrating git with Jenkins and Build a Docker image and push that image into my DockerHub account using Jenkins CI/CD pipeline.
+* Developed CI/CD pipeline project by integrating the Git, Maven with E-mail notification in Jenkins.
+* Build the custom docker images.
+* Provisioned the Infrastructure in AWS using Terraform
+
 ---
-layout: default
+
+## Certifications
+
+* AWS Certified Cloud Practitioner
+* Microsoft Technology Associate for Security Fundamentals
+* Become a Software Developer, LinkedIn Online
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Internships
 
-[Link to another page](./another-page.html).
+### Trivia Software's (04/2020-07/2020)
+*   Exposed to various Java SE 14 related technologies and also implemented Management System Design Project using Swings for GUI, Hibernate Framework for Oracle Database ORM, JFreeCharts for charts.
 
-There should be whitespace between paragraphs.
+### Software Engineer Virtual Experience, JP Morgan Chase & Co. (07/2020-08/2020)
+* Worked with JP Morgan Chase frameworks and learned about data visualization and other state of technologies.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Trivia Software's (11/2019-12/2019)
+* Exposed to various Python 3.x related technologies and also implemented Management System Design using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
+---
 
-# Header 1
+## Skills
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* **Programming Languages:** Python, Java, GoLang ,C 
+* **Tools:** Jenkins, Docker, Maven, Gradle
+* **Web:** HTML, CSS, Nodejs, Django
+* **Database/Datastores:** MySQL, Oracle
+* **VCS:** Git
+* **Platforms:** Windows, Linux
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Education
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| Degree        | College/University name        | Duration |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Post Graduation in Machine Learning & Artificial Intelligence | International Institute of Information Technology, Bangalore | 2022 - 2023  |
+| Bachelor of Engineering in Computer Science | Mumbai University | 2017 - 2021  |
+| 12 <sup>th</sup>          | KLE College of Science and Commerce     | 2016 - 2017   |
+| 10 <sup>th</sup>          | St.Augustine's High School | 2014-2015  |
 
-### There's a horizontal rule below this.
+---
+
+## Personal
+
+*  **Date of birth:**  16 <sup>th</sup> October, 1999 
+*  **Interests:**  Singing , Outdoor Games
+*  **Location:**  Navi Mumbai, India
+*  **Email:**  navyahegde16@gmail.com
+*  **Contact Number:**  +91 7021062217
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
