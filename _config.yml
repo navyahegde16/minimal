@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Navya Hegde </p>
+logo: /assets/img/profile.jpg
+description:
+  <p align="center">
+  <a href="">Resume</a> |
+  <a href="https://www.linkedin.com/in/navyahegde16/">LinkedIn</a> |
+  <a href="https://github.com/navyahegde16">GitHub</a>
+  </p>
+  
+  <p align="left">
+  I'm working as a Software Engineer for Capgemini </br>
+  AWS Certified Cloud Practitioner | DevOps/br>
+  Pursuing Post Graduation Diploma in Machine Learning & AI from IIIT Bangalore. </br>
+  </p>
 theme: jekyll-theme-minimal
