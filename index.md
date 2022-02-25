@@ -30,6 +30,26 @@
 * Exposed to various Python 3.x related technologies and also implemented Management System Design using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
 ---
 
+## Personal Projects
+
+### 1. Student Management System
+#### GUI Application in Java with Hibernate
+##### Achievements/Tasks
+- Management System Design Project using Swings for GUI, Hibernate Framework for Oracle Database ORM, JFreeCharts for charts.
+
+### 2. Covid-19 status of India using Python
+#### Realtime API Project
+##### Achievements/Tasks
+- A script in python which tracks live Covid-19 cases from API in India along with the states.
+- A GUI Pie chart representation of total covid cases in India.
+
+### 3. Employee Management System
+#### GUI Application in Python
+##### Achievements/Tasks
+- Management System Design using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
+
+---
+
 ## Skills
 
 * **Programming Languages:** Python, Java, GoLang ,C 
