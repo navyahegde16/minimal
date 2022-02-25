@@ -37,22 +37,28 @@
 ##### Achievements/Tasks
 - Management System Design Project using Swings for GUI, Hibernate Framework for Oracle Database ORM, JFreeCharts for charts.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/navyahegde16/Student-Management-System.git)
+
 ### 2. Covid-19 status of India using Python
 #### Realtime API Project
 ##### Achievements/Tasks
 - A script in python which tracks live Covid-19 cases from API in India along with the states.
 - A GUI Pie chart representation of total covid cases in India.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/prakash18399/Python_Script_Covid-19_India.git)
+
 ### 3. Employee Management System
 #### GUI Application in Python
 ##### Achievements/Tasks
 - Management System Design using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/navyahegde16/Employee-Management-System.git)
+
 ---
 
 ## Skills
 
-* **Programming Languages:** Python, Java, GoLang ,C 
+* **Programming Languages:** Python, Java, Shell Scripting, Groovy, GoLang ,C 
 * **Tools:** Jenkins, Docker, Maven, Gradle
 * **Web:** HTML, CSS, Nodejs, Django
 * **Database/Datastores:** MySQL, Oracle
