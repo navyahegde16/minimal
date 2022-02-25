@@ -28,7 +28,6 @@
 
 ### Trivia Software's (11/2019-12/2019)
 * Exposed to various Python 3.x related technologies and also implemented Management System Design using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
----
 
 ## Personal Projects
 
@@ -75,7 +74,7 @@
 | Post Graduation in Machine Learning & Artificial Intelligence | International Institute of Information Technology, Bangalore | 2022 - 2023  |
 | Bachelor of Engineering in Computer Science | Mumbai University | 2017 - 2021  |
 | 12 <sup>th</sup>          | KLE College of Science and Commerce     | 2016 - 2017   |
-| 10 <sup>th</sup>          | St.Augustine's High School | 2014-2015  |
+| 10 <sup>th</sup>          | St.Augustine's High School | 2014 - 2015  |
 
 ---
 
