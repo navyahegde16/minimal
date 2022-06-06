@@ -6,7 +6,9 @@
 * Trained on how to set up a DevOps project by integrating git with Jenkins and Build a Docker image and push that image into my DockerHub account using Jenkins CI/CD pipeline.
 * Developed CI/CD pipeline project by integrating the Git, Maven with E-mail notification in Jenkins.
 * Build the custom docker images.
-* Provisioned the Infrastructure in AWS using Terraform
+* Experience in understanding and writing infrastructure as code using terraform and resolving merge conflicts.
+* Knowledge on cloud services i.e. AWS
+* Good knowledge on how to perform CICD using github action.
 
 ---
 
@@ -15,6 +17,8 @@
 * AWS Certified Cloud Practitioner
 * Microsoft Technology Associate for Security Fundamentals
 * Become a Software Developer, LinkedIn Online
+* Agile software Development, University of Minnesota
+* Python for Everybody Specialization, University of Michigan
 
 ---
 
@@ -61,6 +65,7 @@
 * **Tools:** Jenkins, Docker, Maven, Gradle
 * **Web:** HTML, CSS, Nodejs, Django
 * **Database/Datastores:** MySQL, Oracle
+* **Cloud Services:** AWS (VPC, EC2, IAM, S3, RDS, EKS, ECR, Kafka)
 * **VCS:** Git
 * **Platforms:** Windows, Linux
 
